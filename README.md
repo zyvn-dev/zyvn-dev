@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🚀 Hi there, I'm [Your Name]! 
+# 🚀 Hi there, I'm Muhammad Zain Umer! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Computer+Science+Undergrad+(BSCS);AI+%26+Computer+Vision+Developer;Agentic+Workflow+Engineer;Building+Solutions+in+Lahore,+PK)](https://git.io/typing-svg)
 
 *A passionate software engineering student focused on building logic-driven applications, intelligent multi-agent systems, and real-world computer vision solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/zyvn-dev) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](muhammmadzainumer@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 - 🎓 Currently in my **7th semester of BS Computer Science** and actively serving as Class Representative.
 - 👁️ **Specialized in AI & Computer Vision:** Experienced in building surveillance pipelines (YOLOv8, OpenCV, PyTorch, ByteTrack).
-- 🤖 **Agentic AI & Web Scraping:** Building complex, multi-agent workflows using **CrewAI**, **LangChain**, and **n8n** to automate large-scale data extraction.
+- 🤖 **Agentic AI & Web Scraping:** Building complex, multi-agent workflows using **CrewAI**, **LangChain**, and **n8n** to automate.
 - 🌐 **Web & Extensions:** Developing responsive web apps and browser extensions (HTML, CSS, JS, Streamlit).
 - 🧠 **Philosophy:** I believe in building strong foundational logic through manual coding and requirement-based learning.
 
