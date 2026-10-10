@@ -1,121 +1,73 @@
-# Zain Mirza
+<div align="center">
 
-### AI Engineer · Software Developer
+# 🚀 Hi there, I'm [Your Name]! 
 
-Building practical software and exploring intelligent systems with Python, machine learning, computer vision, and agentic AI.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Computer+Science+Undergrad+(BSCS);AI+%26+Computer+Vision+Developer;Agentic+Workflow+Engineer;Building+Solutions+in+Lahore,+PK)](https://git.io/typing-svg)
 
-<p align="left">
-  <a href="https://github.com/zyvn-dev">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/zyvn-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-18181B?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence" />
-</p>
+*A passionate software engineering student focused on building logic-driven applications, intelligent multi-agent systems, and real-world computer vision solutions.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
 
 ---
 
-## About
+### 👨‍💻 About Me
 
-I'm a Computer Science student focused on AI engineering and software development.
-
-I use Python to explore practical applications of intelligent systems, from computer vision to AI-powered workflows. I'm also strengthening my software engineering fundamentals through hands-on projects and continuous learning.
-
-- **Focus:** AI engineering and software development
-- **Interests:** Machine learning, deep learning, computer vision, agentic AI
-- **Tools:** Python, OpenCV, MediaPipe, YOLO, CrewAI
-- **Currently improving:** Problem-solving, clean code, and reliable application development
-- **Based in:** Pakistan
-
-I value understanding how things work, building useful solutions, and improving the quality of my code with every project.
+- 🎓 Currently in my **7th semester of BS Computer Science** and actively serving as Class Representative.
+- 👁️ **Specialized in AI & Computer Vision:** Experienced in building surveillance pipelines (YOLOv8, OpenCV, PyTorch, ByteTrack).
+- 🤖 **Agentic AI & Web Scraping:** Building complex, multi-agent workflows using **CrewAI**, **LangChain**, and **n8n** to automate large-scale data extraction.
+- 🌐 **Web & Extensions:** Developing responsive web apps and browser extensions (HTML, CSS, JS, Streamlit).
+- 🧠 **Philosophy:** I believe in building strong foundational logic through manual coding and requirement-based learning.
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**Languages & Development**
+<div align="center">
+  
+**Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Python, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
-</p>
+**AI, Machine Learning & Vision**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white)
 
-**AI & Computer Vision**
+**Frameworks & Tools**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-18181B?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-18181B?style=flat-square&logo=pandas&logoColor=E2E8F0" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenCV-18181B?style=flat-square&logo=opencv&logoColor=5C8DFF" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-18181B?style=flat-square&logo=google&logoColor=60A5FA" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/YOLO-18181B?style=flat-square&logo=ultralytics&logoColor=FFFFFF" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Scikit--learn-18181B?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/CrewAI-18181B?style=flat-square" alt="CrewAI" />
-</p>
-
----
-
-## Selected Projects
-
-### 01 — AI Surveillance & Object Detection
-
-A computer vision project exploring the detection of people and vehicles in visual input.
-
-- **Technologies:** Python, OpenCV, YOLO
-- **Focus:** Detecting people, cars, motorcycles, trucks, and buses.
-
-[Explore my repositories →](https://github.com/zyvn-dev?tab=repositories)
-
-### 02 — Expression & Gesture-Based Visual Effects
-
-An interactive application that uses facial expressions and hand gestures to trigger visual effects.
-
-- **Technologies:** Python, OpenCV, MediaPipe
-- **Focus:** Face and hand landmark tracking, gesture interaction, and visual effects.
-
-[Explore my repositories →](https://github.com/zyvn-dev?tab=repositories)
-
-### 03 — Agentic AI & Workflow Automation
-
-Exploring AI agents and structured workflows for automating multi-step tasks.
-
-- **Technologies:** Python, CrewAI
-- **Focus:** Agent orchestration, task decomposition, and workflow design.
-- **Status:** Learning and experimentation.
-
-[Explore my repositories →](https://github.com/zyvn-dev?tab=repositories)
+</div>
 
 ---
 
-## GitHub Activity
+### 🚀 Highlighted Projects
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zyvn-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9DA7B3&icon_color=58A6FF&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyvn-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9DA7B3" alt="Most used programming languages" />
-</p>
-
----
-
-## Current Direction
-
-- Strengthening Python and software development fundamentals.
-- Building practical AI and computer vision applications.
-- Deepening my understanding of machine learning and deep learning.
-- Exploring agentic AI and intelligent automation.
-- Turning experiments into well-documented, maintainable projects.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **VisionGuard AI** | Intelligent surveillance software featuring intrusion zones, region of interest tracking, and performance logging. | `OpenCV`, `PyTorch`, `YOLOv8`, `ByteTrack` |
+| **PROMPTVAULT** | A Google Chrome extension designed for seamless prompt management and direct DOM injection. | `HTML`, `CSS`, `JavaScript` |
+| **B2B Multi-Agent Scraper** | CrewAI-powered system aggregating structured data on global importers and local software houses. | `Python`, `CrewAI`, `Streamlit` |
+| **AI Freight Dispatching** | *(In Progress)* Final Year Project focusing on logistics dispatching and management for Pakistan. | `AI`, `System Architecture` |
 
 ---
 
-## Connect
+### 📊 GitHub Stats
 
-I'm open to connecting with developers, AI enthusiasts, and people interested in building useful technology.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
-**LinkedIn:** [linkedin.com/in/zyvn-dev](https://www.linkedin.com/in/zyvn-dev)
-
-**GitHub:** [github.com/zyvn-dev](https://github.com/zyvn-dev)
-
----
-
-<p align="left">
-  <sub>Learn continuously. Build deliberately. Improve consistently.</sub>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
