@@ -2,7 +2,7 @@
 
 # 🚀 Hi there, I'm Muhammad Zain Umer! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Computer+Science+Undergrad+(BSCS);AI+%26+Computer+Vision+Developer;Agentic+Workflow+Engineer;Building+Solutions+in+Lahore,+PK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=BSCS+Computer+Science+Undergrad;AI+%26+Computer+Vision+Developer;Agentic+Workflow+Engineer;Building+Solutions+in+Lahore,+PK)](https://git.io/typing-svg)
 
 *A passionate software engineering student focused on building logic-driven applications, intelligent multi-agent systems, and real-world computer vision solutions.*
 
@@ -64,10 +64,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zyvn-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyvn-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=zyvn-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
