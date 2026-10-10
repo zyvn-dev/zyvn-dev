@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=BSCS+Computer+Science+Undergrad;AI+%26+Computer+Vision+Developer;Agentic+Workflow+Engineer;Building+Solutions+in+Lahore,+PK)](https://git.io/typing-svg)
 
-*A passionate software engineering student focused on building logic-driven applications, intelligent multi-agent systems, and real-world computer vision solutions.*
+*A passionate software engineering student focused on building logic-driven applications, intelligent multi-agent systems and real-world computer vision solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/zyvn-dev) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK) 
@@ -21,7 +21,7 @@
 
 - 🎓 Currently in my **7th semester of BS Computer Science** and actively serving as Class Representative.
 - 👁️ **Specialized in AI & Computer Vision:** Experienced in building surveillance pipelines (YOLOv8, OpenCV, PyTorch, ByteTrack).
-- 🤖 **Agentic AI & Web Scraping:** Building complex, multi-agent workflows using **CrewAI**, **LangChain**, and **n8n** to automate.
+- 🤖 **Agentic AI & Web Scraping:** Building complex, multi-agent workflows using **CrewAI**, **LangChain** and **n8n** to automate.
 - 🌐 **Web & Extensions:** Developing responsive web apps and browser extensions (HTML, CSS, JS, Streamlit).
 - 🧠 **Philosophy:** I believe in building strong foundational logic through manual coding and requirement-based learning.
 
@@ -57,7 +57,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **VisionGuard AI** | Intelligent surveillance software featuring intrusion zones, region of interest tracking, and performance logging. | `OpenCV`, `PyTorch`, `YOLOv8`, `ByteTrack` |
+| **VisionGuard AI** | Intelligent surveillance software featuring intrusion zones, region of interest tracking and performance logging. | `OpenCV`, `PyTorch`, `YOLOv8`, `ByteTrack` |
 | **PROMPTVAULT** | A Google Chrome extension designed for seamless prompt management and direct DOM injection. | `HTML`, `CSS`, `JavaScript` |
 | **B2B Multi-Agent Scraper** | CrewAI-powered system aggregating structured data on global importers and local software houses. | `Python`, `CrewAI`, `Streamlit` |
 | **AI Freight Dispatching** | *(In Progress)* Final Year Project focusing on logistics dispatching and management for Pakistan. | `AI`, `System Architecture` |
